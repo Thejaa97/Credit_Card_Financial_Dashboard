@@ -16,3 +16,14 @@ Outline of the Steps:
  6. Project Insights
      
 Detailed Insights Explanation:
+
+1. Credit Card Transaction Report:
+
+   Top KPIs: Total Revenue: $57 million
+             Total Interest: $8 million
+             Total Transaction Amount: $46 million
+             Total Transaction Volume: $667K
+
+   Revenue by Expenditure Type:
+   
+   
