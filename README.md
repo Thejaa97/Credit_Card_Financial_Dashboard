@@ -2,11 +2,9 @@
 Power BI Dashboard
 
 Primary Objective:
-
 This primary objective of this project is to develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrices and trends enabling stakeholders to monitor and analyze credit card operations effectively.
 
 Dataset Overview:
-
 This project uses four CSV files such as credit card transaction details, credit card customer details and latest weekly recorded details for each aspect of the project.
 
 Outline of the Steps:
