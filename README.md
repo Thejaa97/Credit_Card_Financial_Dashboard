@@ -18,6 +18,7 @@ This project uses four CSV files such as credit card transaction details, credit
 ## Detailed Insights Explanation- Week 53(31st December)
 
    Top KPIs:
+   
     1. Total Revenue: $57 million
     2. Total Interest: $8 million
     3. Total Transaction Amount: $46 million
@@ -26,11 +27,13 @@ This project uses four CSV files such as credit card transaction details, credit
     6. Customer Service Satisfaction: 3.19
 
    Week-Over-Week(WOW) Revenue:
+   
     1. Revenue increased by 28.8%
     2. Total Transaction Amount and Volume increased by 0.58% and 0.06%
     3. Customer Count increased by 0.21%
 
    Overview Year To Date (YTD):
+   
     1. Male customers are contributing more in revenue 31M, female 26M
     2. Silver and Blue credit cards are contrbuting to 93% of overall transactions
     3. TX, NY & CA is contributing to 68%
